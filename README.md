@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**almelkedmaher-lgtm/almelkedmaher-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Maher 👋</h1>
 
-Here are some ideas to get you started:
+<p>Welcome to my GitHub profile.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://github.com/almelkedmaher-lgtm?tab=repositories">Repositories</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/almelkedmaher-lgtm?tab=stars">Starred projects</a>
+</p>
+
+</div>
